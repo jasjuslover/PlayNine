@@ -1,0 +1,11 @@
+.font-awesome {
+  margin: 0.5em;
+  font-size: 24px;
+}
+
+span {
+  display: inline-block;
+  margin: 0.5em;
+  text-align: center;
+  border-color: #ccc;
+}
